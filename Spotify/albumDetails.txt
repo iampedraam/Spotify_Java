@@ -1,0 +1,15 @@
+Album Name: Pooya
+Artist: Topol
+Tanhayi
+Kojayi
+End of Album
+Album Name: Pool
+Artist: Moody Moosavi
+First
+Second
+End of Album
+Album Name: Dopamine
+Artist: Moody Moosavi
+Last of us
+Copy
+End of Album
